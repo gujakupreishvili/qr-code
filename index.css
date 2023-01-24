@@ -1,12 +1,12 @@
-.qr-photo{
+.photo{
   width: 320px;
   border-radius: 10px;
 }
 .container{
   width: 320px;
   background-color: white;
-  padding: 16px;
   border-radius: 20px;
+  padding: 16px;
   text-align: center;
   overflow: hidden;
   margin-top: 4%;
