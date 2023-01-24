@@ -1,0 +1,25 @@
+.qr-photo{
+  width: 320px;
+  border-radius: 10px;
+}
+.container{
+  width: 320px;
+  background-color: white;
+  padding: 16px;
+  border-radius: 20px;
+  text-align: center;
+  overflow: hidden;
+  margin-top: 4%;
+}
+.main-text{
+  font-size: 28px;
+  font-weight: 700;
+  color: #1f314f;
+  font-family: outfit;
+}
+.second-text{
+  color: gray;
+  font-size: 19px;
+  font-weight: 400;
+  font-family: outfit;
+}
